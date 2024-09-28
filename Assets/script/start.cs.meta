@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 8fa066a0d4b714747817e5f69f38747a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundbtn: {fileID: 5431203825914938668, guid: 145e91e02f32f90499dcf93404aeb288,
+      type: 3}
+  - editbtn: {fileID: 8371280472200376122, guid: 685a7f59d291b1d4ba94a9fcbe14dc44,
+      type: 3}
+  - tutorialbtn: {fileID: 5910425824315911929, guid: 4e43da1aa3e6d004fb6985841c8bfaeb,
+      type: 3}
+  - playbtn: {fileID: 769070914702704823, guid: 1e5e9290103072b4bac3d31477466ee1,
+      type: 3}
+  - soundoff: {fileID: 21300000, guid: 4e31da2f6d146d744b06f3c022da6b5e, type: 3}
+  - soundon: {fileID: 21300000, guid: 223764949c976d9438ecdb9d791dc599, type: 3}
+  - tutorialmenu: {fileID: 1142982500193171881, guid: 088b8c48943af5648a9ff71f2f9b79b1,
+      type: 3}
+  - tutplat: {instanceID: 0}
+  - tutorball: {instanceID: 0}
+  - tuttext: {instanceID: 0}
+  - rainbow: {instanceID: 0}
+  - exitbtn: {instanceID: 0}
+  - editimage: {instanceID: 0}
+  - editim: {instanceID: 0}
+  - editcir: {instanceID: 0}
+  - editexit: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - bestscore: {instanceID: 0}
+  - editexitbtn: {instanceID: 0}
+  - editok: {instanceID: 0}
+  - bg: {fileID: 6393251402515854816, guid: a3efcb42a6abfd546a56ea9aac42dd23, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
